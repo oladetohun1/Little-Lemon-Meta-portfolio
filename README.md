@@ -1,1 +1,1 @@
-# Meta potfolio project on html, css and javascript
+# Meta potfolio project on html, css indepth
